@@ -1,4 +1,6 @@
 # app_use_getx
+![Artboard 1](https://github.com/user-attachments/assets/fccb7287-1127-4ac2-a782-f6ecdf419c86)
+![Artboard 1 copy](https://github.com/user-attachments/assets/f0ff53c8-b221-4df0-a17f-18c4dd4c744b)
 
 A new Flutter project.
 
